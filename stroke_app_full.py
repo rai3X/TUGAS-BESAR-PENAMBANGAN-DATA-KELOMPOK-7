@@ -12,8 +12,8 @@ st.set_page_config(
     page_icon="🧠"
 )
 
-st.title("Stroke Risk Prediction App - Naive Bayes Classifier")
-st.write("Model ini menggunakan pendekatan Naive Bayes untuk memprediksi apakah seseorang berisiko terkena stroke, Masukkan data pasien untuk memprediksi kemungkinan stroke.")
+st.title("Stroke Risk Prediction App")
+st.write("Aplikasi ini membantu memprediksi potensi risiko stroke pada pasien menggunakan analisis K-Means Clustering dan model prediktif Naive Bayes.")
 st.markdown("---")
 st.subheader("Evaluasi Model")
 
